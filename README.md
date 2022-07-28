@@ -16,8 +16,8 @@ This is small repository that adds python based hooks for pre-commit.
 Define in `.pre-commit-config.yaml`:
 
 ```yaml
-- repo: <github repo>
-  rev: <version>
+- repo: https://github.com/getindata/py-pre-commit-hooks
+  rev: 0.1.0
   hooks:
   - id: pyspelling-docker
 ```
