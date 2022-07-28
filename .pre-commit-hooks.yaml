@@ -1,0 +1,5 @@
+-   id: pyspelling-docker
+    name: Pyspelling in docker
+    description: Pyspelling with aspell using Dockerfile of github action, based on https://github.com/rojopolis/spellcheck-github-actions
+    entry: spellcheck.sh
+    language: docker
