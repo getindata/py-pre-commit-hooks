@@ -19,7 +19,7 @@ Define in `.pre-commit-config.yaml`:
 
 ```yaml
 - repo: https://github.com/getindata/py-pre-commit-hooks
-  rev: v0.1.3
+  rev: v0.2.0
   hooks:
   - id: pyspelling-docker
 ```
