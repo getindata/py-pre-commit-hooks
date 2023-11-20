@@ -6,6 +6,8 @@
 
 This is small repository that adds python based hooks for pre-commit.
 
+[0.2.0] Moved from copy of docker image setup to reference of github action to stay up to date.
+
 ## Supported hooks
 
 * [pyspelling-docker](https://github.com/rojopolis/spellcheck-github-actions)
