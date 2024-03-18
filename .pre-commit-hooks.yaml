@@ -2,4 +2,4 @@
     name: Pyspelling in docker
     description: Pyspelling with aspell using Dockerfile of github action, based on https://github.com/rojopolis/spellcheck-github-actions
     language: docker_image
-    entry: jonasbn/github-action-spellcheck:latest
+    entry: docker.io/jonasbn/github-action-spellcheck:latest
